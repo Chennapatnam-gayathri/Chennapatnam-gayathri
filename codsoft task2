@@ -3,7 +3,7 @@
 
 # # Task 2 - Simple calculator
 
-# # programmer : SaiRekha Kollapudi
+# # programmer : Gayathri chennapatnam
 
 def add(num1, num2):
     return num1 + num2
